@@ -1,0 +1,28 @@
+# Nepes Light — matplotlib style
+# Install: cp to ~/.config/matplotlib/stylelib/nepes-light.mplstyle
+# Use: plt.style.use('nepes-light')
+
+axes.prop_cycle: cycler('color', ["#23438E", "#C25609", "#017939", "#C4181F", "#2D7A82", "#873D8E", "#6278AB", "#A7693E", "#017939", "#B75B5F", "#56898E", "#96699A"])
+axes.facecolor: white
+axes.edgecolor: "#5A5A64"
+axes.labelcolor: "#1C1C1E"
+axes.grid: True
+
+figure.facecolor: white
+figure.edgecolor: white
+
+text.color: "#1C1C1E"
+
+xtick.color: "#3A3A3E"
+ytick.color: "#3A3A3E"
+
+grid.color: "#E7E6E6"
+grid.alpha: 0.8
+grid.linestyle: --
+
+legend.facecolor: white
+legend.edgecolor: "#D8D7D7"
+legend.framealpha: 0.9
+
+savefig.facecolor: white
+savefig.edgecolor: white

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nepes-mplstyle"
+version = "0.1.0"
+description = "Nepes corporate color palette for matplotlib"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Kay Park", email = "kspark@nepes.co.kr"}]
+requires-python = ">=3.9"
+dependencies = ["matplotlib>=3.5"]
+
+[project.urls]
+Homepage = "https://github.com/kayspark/mplstyle-nepes"
+
+[tool.setuptools.package-data]
+nepes_mplstyle = ["*.mplstyle"]

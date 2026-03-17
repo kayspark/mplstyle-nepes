@@ -1,0 +1,9 @@
+pyproject.toml
+src/nepes_mplstyle/__init__.py
+src/nepes_mplstyle/nepes-dark.mplstyle
+src/nepes_mplstyle/nepes-light.mplstyle
+src/nepes_mplstyle.egg-info/PKG-INFO
+src/nepes_mplstyle.egg-info/SOURCES.txt
+src/nepes_mplstyle.egg-info/dependency_links.txt
+src/nepes_mplstyle.egg-info/requires.txt
+src/nepes_mplstyle.egg-info/top_level.txt

@@ -23,6 +23,7 @@ grid.linestyle: --
 legend.facecolor: "#2E2C2A"
 legend.edgecolor: "#3E3A38"
 legend.framealpha: 0.9
+legend.labelcolor: "#DCD8D4"
 
 savefig.facecolor: "#1E1C1A"
 savefig.edgecolor: "#1E1C1A"

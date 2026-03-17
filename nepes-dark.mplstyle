@@ -1,0 +1,28 @@
+# Nepes Dark — matplotlib style
+# Install: cp to ~/.config/matplotlib/stylelib/nepes-dark.mplstyle
+# Use: plt.style.use('nepes-dark')
+
+axes.prop_cycle: cycler('color', ['#5C8CFF', '#FEA413', '#3DDC84', '#FF5C5C', '#3A9BA5', '#A274C3', '#6B8AD8', '#FFBD4A', '#6BCF70', '#E85B61', '#5CBDC7', '#BB8EDA'])
+axes.facecolor: #1E1C1A
+axes.edgecolor: #787068
+axes.labelcolor: #DCD8D4
+axes.grid: True
+
+figure.facecolor: #1E1C1A
+figure.edgecolor: #1E1C1A
+
+text.color: #DCD8D4
+
+xtick.color: #B6B0AC
+ytick.color: #B6B0AC
+
+grid.color: #3E3A38
+grid.alpha: 0.8
+grid.linestyle: --
+
+legend.facecolor: #2E2C2A
+legend.edgecolor: #3E3A38
+legend.framealpha: 0.9
+
+savefig.facecolor: #1E1C1A
+savefig.edgecolor: #1E1C1A

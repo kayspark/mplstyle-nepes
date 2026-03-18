@@ -75,6 +75,8 @@ ax.scatter(violations, values[violations], color=spc["violation"], marker="D")
 
 Plus 6 midtone variants for 12-color charts.
 
-* Source
+* Related
 
-Generated from [[https://github.com/kayspark/nepes-palette][nepes-palette]] — single source of truth for 23 tool themes.
+- [[https://github.com/kayspark/nepes-palette][nepes-palette]] — single source of truth for all Nepes themes
+- [[https://github.com/kayspark/ggnepes][ggnepes]] — R/ggplot2 equivalent of this Python package
+- [[https://github.com/kayspark/nepes-palette/blob/master/docs/chart-palette-validated.md][docs/chart-palette-validated.md]] — WCAG + colorblind validation report for the chart palette
